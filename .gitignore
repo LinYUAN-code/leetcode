@@ -6,9 +6,6 @@
 *.dylib
 
 #idea
-.idea
-*.iml
-target
 
 # Test binary, built with `go test -c`
 *.test
