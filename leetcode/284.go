@@ -1,5 +1,6 @@
 package leetcode
 
+import "sort"
 
 /*   Below is the interface for Iterator, which is already defined for you.
  *
