@@ -1,5 +1,6 @@
 package leetcode
 
+// 逆向dp
 func calculateMinimumHP(dungeon [][]int) int {
 	n := len(dungeon)
 	m := len(dungeon[0])
