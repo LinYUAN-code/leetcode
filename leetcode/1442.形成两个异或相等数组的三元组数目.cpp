@@ -4,6 +4,7 @@
  * [1442] 形成两个异或相等数组的三元组数目
  */
 #include <lin.h>
+#include <WinSock2.h>
 // @lc code=start
 class Solution {
 public:
