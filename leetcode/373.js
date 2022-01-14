@@ -6,6 +6,8 @@
  */
  var kSmallestPairs = function(nums1, nums2, k) {
     //  很经典的一道题目
+    // 1.暴力--直接取k^2个数字
+    // 1.堆解法
     const q = new MinPriorityQueue({
         priority: (v) => {
             return nums1[v[0]] + nums2[v[1]];
