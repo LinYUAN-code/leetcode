@@ -9,7 +9,6 @@
     // 时间复杂度n^2
     let f = [];
     f[0] = 0;
-    f[-1] = 0;
     const inf = 999999999;
     const max = Math.max;
     const min = Math.min;
