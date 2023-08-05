@@ -6,6 +6,10 @@ package src.com.lin;
 
 public class JDKDemo {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        synchronized(JDKDemo.class) {
+            while(true) {
+                System.out.println("Hello World");
+            }
+        }
     }
 }
