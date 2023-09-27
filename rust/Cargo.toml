@@ -1,5 +1,5 @@
 [package]
-name = "rust/leetcode"
+name = "rust_leetcode"
 version = "0.1.0"
 edition = "2021"
 

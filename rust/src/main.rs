@@ -1,6 +1,7 @@
-pub mod L1374;
-pub mod L735;
+mod l_1;
+
+pub struct Solution {}
 
 fn main() {
-    println!("Hello, world!");
+    l_1::l1_debug();
 }
