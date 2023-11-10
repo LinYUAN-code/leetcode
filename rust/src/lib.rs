@@ -1,4 +1,4 @@
 #![allow(dead_code)]
-pub mod l_2258;
+pub mod l_2300;
 
 pub struct Solution {}
