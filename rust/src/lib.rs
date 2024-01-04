@@ -1,5 +1,5 @@
 #![allow(dead_code)]
-pub mod l_2487;
+pub mod l_2397;
 
 pub struct Solution {}
 
